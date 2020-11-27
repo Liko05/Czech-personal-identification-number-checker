@@ -6,7 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
         // TODO Auto-generated method stub
-            // https://cs.wikipedia.org/wiki/Rodn%C3%A9_%C4%8D%C3%ADslo
+            //something about czech identification number i used it as source of information https://cs.wikipedia.org/wiki/Rodn%C3%A9_%C4%8D%C3%ADslo
 
 
         //creating scanner
