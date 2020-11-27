@@ -1,4 +1,4 @@
-# Czech-personal-identication-number-checker
+# Czech-personal-identification-number-checker
 
 At first it was school project but i havent seen anything like this update on the internet so i decided to release it.
 
