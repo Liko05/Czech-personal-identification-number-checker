@@ -28,8 +28,8 @@ public class personalid {
         //validating if identification number is valid 
 	public String validate() {
 
-        //checking if our number have 10 characters(we already deleted "/" otherwise we would check if its long 11 characters)
-		if (number.length() == 10) {
+        //checking if our number Is divisible by 3.( This Is way how to find out if our number Is valid you can learn more here: https://cs.m.wikipedia.org/wiki/Rodn%C3%A9_%C4%8D%C3%ADslo )
+		if (number %% 3 == 11) {
 			return number;
 		}
             //returnig error
